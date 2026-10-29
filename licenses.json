@@ -1,5 +1,5 @@
 {
   "IVAC-RAHIM-2026": { "expiry": "2026-12-31", "active": true },
   "IVAC-KARIM-2026": { "expiry": "2026-08-15", "active": true },
-  "IVAC-CLIENT-01": { "expiry": "2026-11-05", "active": true }
+  "NEW-CLIENT-KEY": { "expiry": "2026-12-15", "active": true }
 }
